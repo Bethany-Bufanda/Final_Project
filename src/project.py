@@ -65,7 +65,7 @@ class Screen():
 
 def main():
     pygame.init()
-    pygame.display.set_caption("Resizable Box with Image Sequence")
+    pygame.display.set_caption("Let's Dance!")
     screen = Screen()
     screen.run_game()
 
